@@ -1,0 +1,98 @@
+[
+  {
+    "id": "lkgO5jfKrzI",
+    "title": "Ghibli · Những bản nhạc anime",
+    "artist": "Relaxing Soul",
+    "performer": "Relaxing Soul",
+    "youtubeId": "lkgO5jfKrzI",
+    "cover": "covers/lkgO5jfKrzI.jpg",
+    "mood": "focus",
+    "source": "https://www.youtube.com/watch?v=lkgO5jfKrzI",
+    "license": "YouTube",
+    "lyrics": "lyrics/Ghibli · Những bản nhạc anime.lrc"
+  },
+  {
+    "id": "7ZK6b8fSw-w",
+    "title": "Dòng thời gian",
+    "artist": "Nguyễn Hải Phong",
+    "performer": "NHP Entertainment",
+    "youtubeId": "7ZK6b8fSw-w",
+    "cover": "covers/7ZK6b8fSw-w.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=7ZK6b8fSw-w",
+    "license": "YouTube",
+    "lyrics": "lyrics/Dòng thời gian.lrc"
+  },
+  {
+    "id": "iFoLKvdqXk8",
+    "title": "Sau cơn mưa",
+    "artist": "COOLKID · RHYDER",
+    "performer": "COOLKID OFFICIAL",
+    "youtubeId": "iFoLKvdqXk8",
+    "cover": "covers/iFoLKvdqXk8.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=iFoLKvdqXk8",
+    "license": "YouTube",
+    "lyrics": "lyrics/Sau cơn mưa.lrc"
+  },
+  {
+    "id": "fePqV_Fi-gY",
+    "title": "Viên đá nhỏ",
+    "artist": "Hyne · TRISNE",
+    "performer": "TRISNE OFFICIAL",
+    "youtubeId": "fePqV_Fi-gY",
+    "cover": "covers/fePqV_Fi-gY.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=fePqV_Fi-gY",
+    "license": "YouTube",
+    "lyrics": "lyrics/Viên đá nhỏ.lrc"
+  },
+  {
+    "id": "sF7b8VWuLFo",
+    "title": "Xuân thì",
+    "artist": "Hà Anh Tuấn",
+    "performer": "Đức Trí Piano Boutique",
+    "youtubeId": "sF7b8VWuLFo",
+    "cover": "covers/sF7b8VWuLFo.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=sF7b8VWuLFo",
+    "license": "YouTube",
+    "lyrics": "lyrics/Xuân thì.lrc"
+  },
+  {
+    "id": "fvBBwFhfMSY",
+    "title": "Nắng dưới chân mây",
+    "artist": "Nguyễn Hữu Kha",
+    "performer": "Nguyễn Hữu Kha Official",
+    "youtubeId": "fvBBwFhfMSY",
+    "cover": "covers/fvBBwFhfMSY.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=fvBBwFhfMSY",
+    "license": "YouTube",
+    "lyrics": "lyrics/Nắng dưới chân mây.lrc"
+  },
+  {
+    "id": "hOP9II97xso",
+    "title": "Mưa rơi lặng thầm",
+    "artist": "Việt Anh",
+    "performer": "mùa không tên.",
+    "youtubeId": "hOP9II97xso",
+    "cover": "covers/hOP9II97xso.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=hOP9II97xso",
+    "license": "YouTube",
+    "lyrics": "lyrics/Mưa rơi lặng thầm.lrc"
+  },
+  {
+    "id": "q0D3xuJRo1E",
+    "title": "Tình yêu diệu kỳ",
+    "artist": "An Vũ",
+    "performer": "bleu alive",
+    "youtubeId": "q0D3xuJRo1E",
+    "cover": "covers/q0D3xuJRo1E.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=q0D3xuJRo1E",
+    "license": "YouTube",
+    "lyrics": "lyrics/Tình yêu diệu kỳ.lrc"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "my-corner",
+  "adapter": "corner",
+  "title": {
+    "vi": "Góc nhỏ",
+    "en": "My corner",
+    "ja": "小さな居場所",
+    "zh": "小天地"
+  },
+  "description": {
+    "vi": "Âm nhạc, trang sách và những điều khiến mình chậm lại.",
+    "en": "Music, books and the things that invite a slower moment.",
+    "ja": "音楽、本、少しゆっくり過ごしたくなるもの。",
+    "zh": "音乐、书页，以及让生活慢下来的事物。"
+  },
+  "music": "music/tracks.json",
+  "order": 95
+}
