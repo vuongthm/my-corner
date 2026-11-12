@@ -1,6 +1,8 @@
 # Đóng góp cho Góc nhỏ
 
-## Sách, phim và podcast
+## Đọc sách
+
+Website hiện trưng bày sách trên kệ tương tác. Xem [books/README.md](books/README.md) cho các trường `readingProgress`, `keepsakes`, `cover` và nguồn giới thiệu. Tiến độ và ghi nhớ chỉ thêm khi có dữ liệu thực tế của tác giả.
 
 Thêm Markdown theo nhóm/ngôn ngữ như `books/vi/new-book.md`, `films/vi/new-film.md` hoặc `podcasts/vi/new-episode.md`.
 
@@ -14,7 +16,7 @@ shelfStatus: planned
 status: draft
 ```
 
-`category` nhận `books`, `films`, `podcasts`; `shelfStatus` nhận `planned`, `current`, `finished`. Phần dưới frontmatter là cảm nhận/ghi chép; không tự khẳng định một tác phẩm là sở thích của tác giả khi chưa được xác nhận. Ảnh và link nguồn là tùy chọn.
+`category` nhận `books`, `films`, `podcasts`; trang Đọc sách chỉ lấy `books`. Các nhóm còn lại vẫn có thể lưu nội dung riêng theo manifest. `shelfStatus` nhận `planned`, `current`, `finished`. Phần dưới frontmatter là cảm nhận/ghi chép; không tự khẳng định một tác phẩm là sở thích của tác giả khi chưa được xác nhận. Ảnh và link nguồn là tùy chọn.
 
 ## Nhạc và lời
 

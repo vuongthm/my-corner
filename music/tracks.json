@@ -262,5 +262,65 @@
     "source": "https://www.youtube.com/watch?v=oMGPJ4uE_W8",
     "license": "YouTube",
     "lyrics": "lyrics/Gói con tim làm quà.lrc"
+  },
+  {
+    "id": "uUB7wnWeMdM",
+    "title": "Chỉ là muốn nói",
+    "artist": "Khải",
+    "performer": "Chang",
+    "youtubeId": "uUB7wnWeMdM",
+    "cover": "covers/chilamuonnoi.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=uUB7wnWeMdM",
+    "license": "YouTube",
+    "lyrics": "lyrics/Chỉ là muốn nói.lrc"
+  },
+  {
+    "id": "y_6aSG2yfe8",
+    "title": "Hoa nở không màu",
+    "artist": "Hoài Lâm",
+    "performer": "Hoài Lâm",
+    "youtubeId": "y_6aSG2yfe8",
+    "cover": "covers/hoanokhongmau.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=y_6aSG2yfe8&list=RDy_6aSG2yfe8&start_radio=1",
+    "license": "YouTube",
+    "lyrics": "lyrics/Hoa nở không màu.lrc"
+  },
+  {
+    "id": "FGGo8LFmbjs",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "performer": "Evolve",
+    "youtubeId": "FGGo8LFmbjs",
+    "cover": "covers/someoneyoulved.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=FGGo8LFmbjs&list=RDFGGo8LFmbjs&start_radio=1",
+    "license": "YouTube",
+    "lyrics": "lyrics/Someone You Loved.lrc"
+  },
+  {
+    "id": "WECF30njTEo",
+    "title": "Ngáo ngơ",
+    "artist": "HIEUTHUHAI, ERIK, ANH TÚ ATUS, JSOL, ORANGE",
+    "performer": "Anh trai say HI",
+    "youtubeId": "WECF30njTEo",
+    "cover": "covers/ngaongo.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=WECF30njTEo&list=RDWECF30njTEo&start_radio=1",
+    "license": "YouTube",
+    "lyrics": "lyrics/Ngáo ngơ.lrc"
+  },
+  {
+    "id": "iz6VBxZBIM",
+    "title": "Nỗi nhớ mang tên mình",
+    "artist": "Hoài Lâm",
+    "performer": "Nguyễn Minh Cường",
+    "youtubeId": "-iz6VBxZBIM",
+    "cover": "covers/noinhomangtenminh.jpg",
+    "mood": "quiet",
+    "source": "https://www.youtube.com/watch?v=-iz6VBxZBIM&list=RD-iz6VBxZBIM&start_radio=1",
+    "license": "YouTube",
+    "lyrics": "lyrics/Nỗi nhớ mang tên mình.lrc"
   }
 ]
