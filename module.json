@@ -14,5 +14,10 @@
     "zh": "音乐、书页，以及让生活慢下来的事物。"
   },
   "music": "music/tracks.json",
-  "order": 95
+  "order": 95,
+  "collections": [
+    "journey",
+    "stories"
+  ],
+  "friends": "friends/friends.json"
 }

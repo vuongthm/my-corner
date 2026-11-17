@@ -20,7 +20,7 @@ status: draft
 
 ## Nhạc và lời
 
-Dữ liệu ở `music/tracks.json`. Giữ ID bài nhạc đang có; bài mới cần ID riêng, tiêu đề, nghệ sĩ, bìa, `mood` (`focus`, `quiet`, `personal`) và một nguồn: `youtubeId` hoặc `src`. Đường dẫn bìa/audio/lời tính từ file JSON này. LRC đặt tên theo bài hát trong `music/lyrics/`:
+Dữ liệu ở `music/tracks.json`. Giữ ID bài nhạc đang có; bài mới cần ID riêng, tiêu đề, nghệ sĩ, bìa, `mood` và một nguồn: `youtubeId` hoặc `src`. `mood` nhận một trong các giá trị: `focus` (tập trung), `quiet` (thư giãn), `love` (tình yêu), `sad` (tâm trạng), `nostalgia` (hoài niệm), `energy` (năng lượng), `personal` (nhạc từ thiết bị). Bộ lọc chỉ hiển thị các nhóm đang có bài hát. Đường dẫn bìa/audio/lời tính từ file JSON này. LRC đặt tên theo bài hát trong `music/lyrics/`:
 
 ```text
 [ti:Tên bài hát]
@@ -40,3 +40,9 @@ Chỉ góp nội dung và tư liệu có quyền chia sẻ. Timestamp cần kh�
 4. Giữ bài mới ở trạng thái draft để review. Ghi rõ nội dung và cách kiểm tra trong PR.
 
 Không đưa credential, nội dung cá nhân chưa được phép công khai, dependencies hoặc cache vào PR. Các thiết lập vận hành do maintainer quản lý; không cần yêu cầu khóa cá nhân để gửi đóng góp.
+
+## Hành trình, bạn bè và truyện
+
+Các phần này cùng nằm trong repo `my-corner`, ngang cấp với `music/` và `books/`. Xem `README.md` để biết cây thư mục. Avatar nằm trong `friends/media/`, ảnh hành trình trong `journey/media/`, ảnh truyện trong `stories/<ten-truyen>/media/` hoặc `stories/media/` cho ảnh dùng chung. Không đặt `.git` hay workflow thông báo riêng trong các thư mục con; workflow ở gốc `my-corner` thông báo cập nhật cho cả repo.
+
+`journey/module.json` và `stories/module.json` giữ ID cũ để bảo toàn URL và khóa truyện `stories/<ten-truyen>/<chuong>`. Không sửa ID khi chỉ thay đổi vị trí lưu trữ. Mật khẩu vẫn nằm trong cấu hình riêng của website, không ghi mật khẩu vào repo này.

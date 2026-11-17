@@ -1,0 +1,18 @@
+{
+  "id": "stories",
+  "adapter": "stories",
+  "title": {
+    "vi": "Chuyện kể",
+    "en": "Stories",
+    "ja": "ストーリー",
+    "zh": "故事"
+  },
+  "description": {
+    "vi": "Chuyện kể",
+    "en": "Stories",
+    "ja": "ストーリー",
+    "zh": "故事"
+  },
+  "order": 90,
+  "mediaNamespace": "stories"
+}

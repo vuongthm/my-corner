@@ -1,0 +1,19 @@
+{
+  "id": "journey",
+  "adapter": "journey",
+  "title": {
+    "vi": "Hành trình",
+    "en": "Journey",
+    "ja": "歩み",
+    "zh": "成长经历"
+  },
+  "description": {
+    "vi": "Hành trình",
+    "en": "Journey",
+    "ja": "歩み",
+    "zh": "成长经历"
+  },
+  "order": 80,
+  "mediaNamespace": "journey",
+  "page": "page.md"
+}

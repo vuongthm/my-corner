@@ -1,147 +1,28 @@
 [
   {
-    "id": "lkgO5jfKrzI",
-    "title": "Ghibli · Những bản nhạc anime",
-    "artist": "Relaxing Soul",
-    "performer": "Relaxing Soul",
-    "youtubeId": "lkgO5jfKrzI",
-    "cover": "covers/lkgO5jfKrzI.jpg",
-    "mood": "focus",
-    "source": "https://www.youtube.com/watch?v=lkgO5jfKrzI",
-    "license": "YouTube",
-    "lyrics": "lyrics/Ghibli · Những bản nhạc anime.lrc"
-  },
-  {
-    "id": "7ZK6b8fSw-w",
-    "title": "Dòng thời gian",
-    "artist": "Nguyễn Hải Phong",
-    "performer": "NHP Entertainment",
-    "youtubeId": "7ZK6b8fSw-w",
-    "cover": "covers/7ZK6b8fSw-w.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=7ZK6b8fSw-w",
-    "license": "YouTube",
-    "lyrics": "lyrics/Dòng thời gian.lrc"
-  },
-  {
-    "id": "iFoLKvdqXk8",
-    "title": "Sau cơn mưa",
-    "artist": "COOLKID · RHYDER",
-    "performer": "COOLKID OFFICIAL",
-    "youtubeId": "iFoLKvdqXk8",
-    "cover": "covers/iFoLKvdqXk8.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=iFoLKvdqXk8",
-    "license": "YouTube",
-    "lyrics": "lyrics/Sau cơn mưa.lrc"
-  },
-  {
-    "id": "fePqV_Fi-gY",
-    "title": "Viên đá nhỏ",
-    "artist": "Hyne · TRISNE",
-    "performer": "TRISNE OFFICIAL",
-    "youtubeId": "fePqV_Fi-gY",
-    "cover": "covers/fePqV_Fi-gY.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=fePqV_Fi-gY",
-    "license": "YouTube",
-    "lyrics": "lyrics/Viên đá nhỏ.lrc"
-  },
-  {
-    "id": "sF7b8VWuLFo",
-    "title": "Xuân thì",
-    "artist": "Hà Anh Tuấn",
-    "performer": "Đức Trí Piano Boutique",
-    "youtubeId": "sF7b8VWuLFo",
-    "cover": "covers/sF7b8VWuLFo.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=sF7b8VWuLFo",
-    "license": "YouTube",
-    "lyrics": "lyrics/Xuân thì.lrc"
-  },
-  {
-    "id": "fvBBwFhfMSY",
-    "title": "Nắng dưới chân mây",
-    "artist": "Nguyễn Hữu Kha",
-    "performer": "Nguyễn Hữu Kha Official",
-    "youtubeId": "fvBBwFhfMSY",
-    "cover": "covers/fvBBwFhfMSY.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=fvBBwFhfMSY",
-    "license": "YouTube",
-    "lyrics": "lyrics/Nắng dưới chân mây.lrc"
-  },
-  {
-    "id": "hOP9II97xso",
-    "title": "Mưa rơi lặng thầm",
-    "artist": "Việt Anh",
-    "performer": "mùa không tên.",
-    "youtubeId": "hOP9II97xso",
-    "cover": "covers/hOP9II97xso.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=hOP9II97xso",
-    "license": "YouTube",
-    "lyrics": "lyrics/Mưa rơi lặng thầm.lrc"
-  },
-  {
-    "id": "q0D3xuJRo1E",
-    "title": "Tình yêu diệu kỳ",
-    "artist": "An Vũ",
-    "performer": "bleu alive",
-    "youtubeId": "q0D3xuJRo1E",
-    "cover": "covers/q0D3xuJRo1E.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=q0D3xuJRo1E",
-    "license": "YouTube",
-    "lyrics": "lyrics/Tình yêu diệu kỳ.lrc"
-  },
-  {
     "id": "V1Yg6fWe2a8",
-    "title": "Trời sáng rồi",
+    "title": "Trời sáng rồi, ta ngủ đi thôi",
     "artist": "Hà Quốc Hoàng, Trần Lê Thúy Vy",
     "performer": "30 Pictures",
     "youtubeId": "V1Yg6fWe2a8",
-    "cover": "covers/troisangroi.jpg",
+    "cover": "covers/troi-sang-roi-ta-ngu-di-thoi.jpg",
     "mood": "quiet",
     "source": "https://www.youtube.com/watch?v=V1Yg6fWe2a8",
     "license": "YouTube",
-    "lyrics": "lyrics/Trời sáng rồi.lrc"
-  },
-  {
-    "id": "sPQXOA6pzOg",
-    "title": "Ngày rời chuyến bay",
-    "artist": "Minh Huy, Pinny",
-    "performer": "Minh Huy Official",
-    "youtubeId": "sPQXOA6pzOg",
-    "cover": "covers/ngayroichuyenbay.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=sPQXOA6pzOg",
-    "license": "YouTube",
-    "lyrics": "lyrics/Ngày rời chuyến bay.lrc"
-  },
-  {
-    "id": "CrOIxHNUxYY",
-    "title": "Just say hello",
-    "artist": "Gan Cao Pian",
-    "performer": "Go Music Group",
-    "youtubeId": "CrOIxHNUxYY",
-    "cover": "covers/justsayhello.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=CrOIxHNUxYY",
-    "license": "YouTube",
-    "lyrics": "lyrics/Just say hello.lrc"
-  },
-  {
-    "id": "nqOs4kwF3qY",
-    "title": "Hẹn ngày mai yêu",
-    "artist": "Long Cao",
-    "performer": "FAPTV",
-    "youtubeId": "nqOs4kwF3qY",
-    "cover": "covers/henngaymaiyeu.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=nqOs4kwF3qY",
-    "license": "YouTube",
-    "lyrics": "lyrics/Hẹn ngày mai yêu.lrc"
+    "lyrics": "lyrics/troi-sang-roi-ta-ngu-di-thoi.lrc",
+    "genre": "Nhạc phim / Indie",
+    "genres": [
+      "Soundtrack",
+      "Indie"
+    ],
+    "playlists": [
+      "quiet",
+      "nostalgia",
+      "sad"
+    ],
+    "slug": "troi-sang-roi-ta-ngu-di-thoi",
+    "originalOrder": 9,
+    "lyricsStatus": "synced"
   },
   {
     "id": "2-ldobrfZG8",
@@ -149,23 +30,29 @@
     "artist": "Vua Bán Kẹo",
     "performer": "HOA HỒNG DẠI MUSIC",
     "youtubeId": "2-ldobrfZG8",
-    "cover": "covers/chieunaykhongcomuabay.jpg",
+    "cover": "covers/chieu-nay-khong-co-mua-bay.jpg",
     "mood": "quiet",
     "source": "https://www.youtube.com/watch?v=2-ldobrfZG8",
     "license": "YouTube",
-    "lyrics": "lyrics/Chiều nay không có mưa bay.lrc"
-  },
-  {
-    "id": "IDksv0Z-dTk",
-    "title": "Tình đầu",
-    "artist": "Tăng Duy Tân",
-    "performer": "Tăng Duy Tân",
-    "youtubeId": "IDksv0Z-dTk",
-    "cover": "covers/tinhdau.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=IDksv0Z-dTk",
-    "license": "YouTube",
-    "lyrics": "lyrics/Tình đầu.lrc"
+    "lyrics": "lyrics/chieu-nay-khong-co-mua-bay.lrc",
+    "genre": "Indie / Acoustic",
+    "genres": [
+      "Indie",
+      "Acoustic"
+    ],
+    "playlists": [
+      "quiet",
+      "sad"
+    ],
+    "slug": "chieu-nay-khong-co-mua-bay",
+    "originalOrder": 13,
+    "lyricsStatus": "reference-timed",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 52,
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/trung-qu-n-chi-u-nay-kh-ng-c-m-a-bay-24056834",
+    "lyricsTimestampNotes": "Trung Quân reference: alternate singer/recording from YouTube Vua Bán Kẹo; timing may differ.",
+    "lyricsTimestampCount": 52
   },
   {
     "id": "zEWSSod0zTY",
@@ -173,95 +60,29 @@
     "artist": "Dick x PC x Tofu",
     "performer": "BẠN CÓ TÀI MÀ",
     "youtubeId": "zEWSSod0zTY",
-    "cover": "covers/ghequa.jpg",
+    "cover": "covers/ghe-qua.jpg",
     "mood": "quiet",
     "source": "https://www.youtube.com/watch?v=zEWSSod0zTY",
     "license": "YouTube",
-    "lyrics": "lyrics/Ghé qua.lrc"
-  },
-  {
-    "id": "l0d9pCtFVnw",
-    "title": "Những ngày mưa",
-    "artist": "LÊ GIA BẢO",
-    "performer": "LÊ GIA BẢO",
-    "youtubeId": "l0d9pCtFVnw",
-    "cover": "covers/nhungngaymua.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=l0d9pCtFVnw",
-    "license": "YouTube",
-    "lyrics": "lyrics/Những ngày mưa.lrc"
-  },
-  {
-    "id": "lLfZc0XsiIw",
-    "title": "Anh chẳng thể",
-    "artist": "Phạm Kỳ",
-    "performer": "Phạm Kỳ Official",
-    "youtubeId": "lLfZc0XsiIw",
-    "cover": "covers/anhchangthe.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=lLfZc0XsiIw",
-    "license": "YouTube",
-    "lyrics": "lyrics/Anh chẳng thể.lrc"
-  },
-  {
-    "id": "fQWItghG5dM",
-    "title": "Nắng có mang em về",
-    "artist": "Shartnuss ft Tr.D & Phankeo",
-    "performer": "Shartnuss Official",
-    "youtubeId": "fQWItghG5dM",
-    "cover": "covers/nangcomangemve.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=fQWItghG5dM",
-    "license": "YouTube",
-    "lyrics": "lyrics/Nắng có mang em về.lrc"
-  },
-  {
-    "id": "gEDpsS7p6Co",
-    "title": "Lỡ Thương Nhau",
-    "artist": "Nguyễn Hùng",
-    "performer": "Mounter",
-    "youtubeId": "gEDpsS7p6Co",
-    "cover": "covers/lothuongnhau.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=gEDpsS7p6Co",
-    "license": "YouTube",
-    "lyrics": "lyrics/Lỡ Thương Nhau.lrc"
-  },
-  {
-    "id": "DOBZ3GtdFf8",
-    "title": "Quê hương tôi",
-    "artist": "V.Music",
-    "performer": "T Production",
-    "youtubeId": "DOBZ3GtdFf8",
-    "cover": "covers/quehuongtoi.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=DOBZ3GtdFf8",
-    "license": "YouTube",
-    "lyrics": "lyrics/Quê hương tôi.lrc"
-  },
-  {
-    "id": "U6iihiD0A64",
-    "title": "Ôm trọn yêu thương",
-    "artist": "Rum",
-    "performer": "Rum",
-    "youtubeId": "U6iihiD0A64",
-    "cover": "covers/omtronyeuthuong.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=U6iihiD0A64",
-    "license": "YouTube",
-    "lyrics": "lyrics/Ôm trọn yêu thương.lrc"
-  },
-  {
-    "id": "oMGPJ4uE_W8",
-    "title": "Gói con tim làm quà",
-    "artist": "Nguyễn Hùng",
-    "performer": "Mounter",
-    "youtubeId": "oMGPJ4uE_W8",
-    "cover": "covers/goicontimlamqua.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=oMGPJ4uE_W8",
-    "license": "YouTube",
-    "lyrics": "lyrics/Gói con tim làm quà.lrc"
+    "lyrics": "lyrics/ghe-qua.lrc",
+    "genre": "Rap / Hip-hop",
+    "genres": [
+      "Hip-hop",
+      "Rap"
+    ],
+    "playlists": [
+      "quiet",
+      "nostalgia"
+    ],
+    "slug": "ghe-qua",
+    "originalOrder": 15,
+    "lyricsStatus": "reference-timed",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 63,
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/taynguyensound-gh-qua-feat-tofu-pc-dick-5861757",
+    "lyricsTimestampNotes": "Ghé qua: reference merges several user-supplied lines; estimated within-line positions for split lines.",
+    "lyricsTimestampCount": 63
   },
   {
     "id": "uUB7wnWeMdM",
@@ -269,11 +90,448 @@
     "artist": "Khải",
     "performer": "Chang",
     "youtubeId": "uUB7wnWeMdM",
-    "cover": "covers/chilamuonnoi.jpg",
+    "cover": "covers/chi-la-muon-noi.jpg",
     "mood": "quiet",
     "source": "https://www.youtube.com/watch?v=uUB7wnWeMdM",
     "license": "YouTube",
-    "lyrics": "lyrics/Chỉ là muốn nói.lrc"
+    "lyrics": "lyrics/chi-la-muon-noi.lrc",
+    "genre": "Indie Pop",
+    "genres": [
+      "Indie",
+      "Pop"
+    ],
+    "playlists": [
+      "quiet",
+      "love"
+    ],
+    "slug": "chi-la-muon-noi",
+    "originalOrder": 23,
+    "lyricsStatus": "reference-timed",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 39,
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/khai-ch-l-mu-n-n-i-9980444",
+    "lyricsTimestampNotes": "Reference recording may differ from YouTube cut/version.",
+    "lyricsTimestampCount": 39
+  },
+  {
+    "id": "fePqV_Fi-gY",
+    "title": "Viên đá nhỏ",
+    "artist": "Hyne · TRISNE",
+    "performer": "TRISNE OFFICIAL",
+    "youtubeId": "fePqV_Fi-gY",
+    "cover": "covers/vien-da-nho.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=fePqV_Fi-gY",
+    "license": "YouTube",
+    "lyrics": "lyrics/vien-da-nho.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "love",
+      "quiet",
+      "sad"
+    ],
+    "slug": "vien-da-nho",
+    "originalOrder": 4,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "q0D3xuJRo1E",
+    "title": "Tình yêu diệu kỳ",
+    "artist": "An Vũ",
+    "performer": "bleu alive",
+    "youtubeId": "q0D3xuJRo1E",
+    "cover": "covers/tinh-yeu-dieu-ky.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=q0D3xuJRo1E",
+    "license": "YouTube",
+    "lyrics": "lyrics/tinh-yeu-dieu-ky.lrc",
+    "genre": "Indie Pop",
+    "genres": [
+      "Indie",
+      "Pop"
+    ],
+    "playlists": [
+      "love",
+      "quiet"
+    ],
+    "slug": "tinh-yeu-dieu-ky",
+    "originalOrder": 8,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "nqOs4kwF3qY",
+    "title": "Hẹn ngày mai yêu",
+    "artist": "Long Cao",
+    "performer": "FAPTV",
+    "youtubeId": "nqOs4kwF3qY",
+    "cover": "covers/hen-ngay-mai-yeu.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=nqOs4kwF3qY",
+    "license": "YouTube",
+    "lyrics": "lyrics/hen-ngay-mai-yeu.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "love",
+      "quiet"
+    ],
+    "slug": "hen-ngay-mai-yeu",
+    "originalOrder": 12,
+    "lyricsStatus": "estimated",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 46,
+    "lyricsTimestampSource": "none; section-level approximation only (no audio/subtitles)",
+    "lyricsTimestampNotes": "Rough draft: not aligned to the linked YouTube video. Requires audio synchronization.",
+    "lyricsTimestampCount": 46
+  },
+  {
+    "id": "IDksv0Z-dTk",
+    "title": "Tình đầu",
+    "artist": "Tăng Duy Tân",
+    "performer": "Tăng Duy Tân",
+    "youtubeId": "IDksv0Z-dTk",
+    "cover": "covers/tinh-dau.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=IDksv0Z-dTk",
+    "license": "YouTube",
+    "lyrics": "lyrics/tinh-dau.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "love",
+      "nostalgia"
+    ],
+    "slug": "tinh-dau",
+    "originalOrder": 14,
+    "lyricsStatus": "reference-timed",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 49,
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/t-ng-duy-t-n-t-nh-u-5862812",
+    "lyricsTimestampNotes": "Reference recording may differ from YouTube cut/version.",
+    "lyricsTimestampCount": 49
+  },
+  {
+    "id": "gEDpsS7p6Co",
+    "title": "Lỡ thương nhau",
+    "artist": "Nguyễn Hùng",
+    "performer": "Mounter",
+    "youtubeId": "gEDpsS7p6Co",
+    "cover": "covers/lo-thuong-nhau.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=gEDpsS7p6Co",
+    "license": "YouTube",
+    "lyrics": "lyrics/lo-thuong-nhau.lrc",
+    "genre": "Indie Pop",
+    "genres": [
+      "Indie",
+      "Pop"
+    ],
+    "playlists": [
+      "love",
+      "quiet"
+    ],
+    "slug": "lo-thuong-nhau",
+    "originalOrder": 19,
+    "lyricsStatus": "estimated",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 39,
+    "lyricsTimestampSource": "none; section-level approximation only (no audio/subtitles)",
+    "lyricsTimestampNotes": "Rough draft: not aligned to the linked YouTube video. Requires audio synchronization.",
+    "lyricsTimestampCount": 39
+  },
+  {
+    "id": "U6iihiD0A64",
+    "title": "Ôm trọn thương yêu",
+    "artist": "Rum",
+    "performer": "Rum",
+    "youtubeId": "U6iihiD0A64",
+    "cover": "covers/om-tron-thuong-yeu.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=U6iihiD0A64",
+    "license": "YouTube",
+    "lyrics": "lyrics/om-tron-thuong-yeu.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "love",
+      "quiet"
+    ],
+    "slug": "om-tron-thuong-yeu",
+    "originalOrder": 21,
+    "lyricsStatus": "estimated",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 48,
+    "lyricsTimestampSource": "none; section-level approximation only (no audio/subtitles)",
+    "lyricsTimestampNotes": "Rough draft: not aligned to the linked YouTube video. Requires audio synchronization.",
+    "lyricsTimestampCount": 48
+  },
+  {
+    "id": "oMGPJ4uE_W8",
+    "title": "Gói con tim làm quà",
+    "artist": "Nguyễn Hùng, Mounter",
+    "performer": "Mounter",
+    "youtubeId": "oMGPJ4uE_W8",
+    "cover": "covers/goi-con-tim-lam-qua.jpg",
+    "mood": "love",
+    "source": "https://www.youtube.com/watch?v=oMGPJ4uE_W8",
+    "license": "YouTube",
+    "lyrics": "lyrics/goi-con-tim-lam-qua.lrc",
+    "genre": "Nhạc phim / Ballad",
+    "genres": [
+      "Soundtrack",
+      "Ballad"
+    ],
+    "playlists": [
+      "love",
+      "nostalgia",
+      "sad"
+    ],
+    "slug": "goi-con-tim-lam-qua",
+    "originalOrder": 22,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 27,
+    "lyricsTimestampCount": 27,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
+  },
+  {
+    "id": "iFoLKvdqXk8",
+    "title": "Sau cơn mưa",
+    "artist": "COOLKID · RHYDER",
+    "performer": "COOLKID OFFICIAL",
+    "youtubeId": "iFoLKvdqXk8",
+    "cover": "covers/sau-con-mua.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=iFoLKvdqXk8",
+    "license": "YouTube",
+    "lyrics": "lyrics/sau-con-mua.lrc",
+    "genre": "Rap / R&B",
+    "genres": [
+      "Hip-hop",
+      "R&B"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "sau-con-mua",
+    "originalOrder": 3,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "fvBBwFhfMSY",
+    "title": "Nắng dưới chân mây",
+    "artist": "Nguyễn Hữu Kha",
+    "performer": "Nguyễn Hữu Kha Official",
+    "youtubeId": "fvBBwFhfMSY",
+    "cover": "covers/nang-duoi-chan-may.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=fvBBwFhfMSY",
+    "license": "YouTube",
+    "lyrics": "lyrics/nang-duoi-chan-may.lrc",
+    "genre": "Indie Pop",
+    "genres": [
+      "Indie",
+      "Pop"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "nang-duoi-chan-may",
+    "originalOrder": 6,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "hOP9II97xso",
+    "title": "Mưa rơi lặng thầm",
+    "artist": "Việt Anh",
+    "performer": "mùa không tên.",
+    "youtubeId": "hOP9II97xso",
+    "cover": "covers/mua-roi-lang-tham.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=hOP9II97xso",
+    "license": "YouTube",
+    "lyrics": "lyrics/mua-roi-lang-tham.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "mua-roi-lang-tham",
+    "originalOrder": 7,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "sPQXOA6pzOg",
+    "title": "Ngày rời chuyến bay",
+    "artist": "Minh Huy, Pinny",
+    "performer": "Minh Huy Official",
+    "youtubeId": "sPQXOA6pzOg",
+    "cover": "covers/ngay-roi-chuyen-bay.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=sPQXOA6pzOg",
+    "license": "YouTube",
+    "lyrics": "lyrics/ngay-roi-chuyen-bay.lrc",
+    "genre": "Pop / Rap",
+    "genres": [
+      "Pop",
+      "Hip-hop"
+    ],
+    "playlists": [
+      "sad",
+      "love"
+    ],
+    "slug": "ngay-roi-chuyen-bay",
+    "originalOrder": 10,
+    "lyricsStatus": "reference-anchored-estimate",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 55,
+    "lyricsTimestampCount": 55,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/minh-huy-pinny-ng-y-r-i-chuy-n-bay-33056363"
+  },
+  {
+    "id": "CrOIxHNUxYY",
+    "title": "Just Say Hello",
+    "artist": "Melo-D",
+    "performer": "Go Music Group",
+    "youtubeId": "CrOIxHNUxYY",
+    "cover": "covers/just-say-hello.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=CrOIxHNUxYY",
+    "license": "YouTube",
+    "lyrics": "lyrics/just-say-hello.lrc",
+    "genre": "Pop Ballad quốc tế",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "love"
+    ],
+    "slug": "just-say-hello",
+    "originalOrder": 11,
+    "lyricsStatus": "reference-timed-unverified",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 36,
+    "lyricsTimestampCount": 36,
+    "lyricsTimestampNotes": "Reference LRC timing not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/melo-d-just-say-hello-8087292"
+  },
+  {
+    "id": "l0d9pCtFVnw",
+    "title": "Những ngày mưa",
+    "artist": "LÊ GIA BẢO",
+    "performer": "LÊ GIA BẢO",
+    "youtubeId": "l0d9pCtFVnw",
+    "cover": "covers/nhung-ngay-mua.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=l0d9pCtFVnw",
+    "license": "YouTube",
+    "lyrics": "lyrics/nhung-ngay-mua.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "nhung-ngay-mua",
+    "originalOrder": 16,
+    "lyricsStatus": "reference-timed-unverified",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 33,
+    "lyricsTimestampCount": 33,
+    "lyricsTimestampNotes": "Reference LRC timing not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/l-gia-b-o-bmz-nh-ng-ng-y-m-a-25165104"
+  },
+  {
+    "id": "lLfZc0XsiIw",
+    "title": "Anh chẳng thể",
+    "artist": "Phạm Kỳ",
+    "performer": "Phạm Kỳ Official",
+    "youtubeId": "lLfZc0XsiIw",
+    "cover": "covers/anh-chang-the.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=lLfZc0XsiIw",
+    "license": "YouTube",
+    "lyrics": "lyrics/anh-chang-the.lrc",
+    "genre": "Indie Pop",
+    "genres": [
+      "Indie",
+      "Pop"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "anh-chang-the",
+    "originalOrder": 17,
+    "lyricsStatus": "reference-anchored-estimate",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 40,
+    "lyricsTimestampCount": 40,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/ph-m-k-anh-ch-ng-th-13214018"
+  },
+  {
+    "id": "fQWItghG5dM",
+    "title": "Nắng có mang em về",
+    "artist": "Shartnuss ft Tr.D & Phankeo",
+    "performer": "Shartnuss Official",
+    "youtubeId": "fQWItghG5dM",
+    "cover": "covers/nang-co-mang-em-ve.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=fQWItghG5dM",
+    "license": "YouTube",
+    "lyrics": "lyrics/nang-co-mang-em-ve.lrc",
+    "genre": "Lo-fi / Rap",
+    "genres": [
+      "Lo-fi",
+      "Hip-hop"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "nang-co-mang-em-ve",
+    "originalOrder": 18,
+    "lyricsStatus": "reference-anchored-estimate",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 37,
+    "lyricsTimestampCount": 37,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/shartnuss-tr-d-v-phankeo-na-ng-co-mang-em-ve-29968334"
   },
   {
     "id": "y_6aSG2yfe8",
@@ -281,11 +539,28 @@
     "artist": "Hoài Lâm",
     "performer": "Hoài Lâm",
     "youtubeId": "y_6aSG2yfe8",
-    "cover": "covers/hoanokhongmau.jpg",
-    "mood": "quiet",
+    "cover": "covers/hoa-no-khong-mau.jpg",
+    "mood": "sad",
     "source": "https://www.youtube.com/watch?v=y_6aSG2yfe8&list=RDy_6aSG2yfe8&start_radio=1",
     "license": "YouTube",
-    "lyrics": "lyrics/Hoa nở không màu.lrc"
+    "lyrics": "lyrics/hoa-no-khong-mau.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "hoa-no-khong-mau",
+    "originalOrder": 24,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 39,
+    "lyricsTimestampCount": 39,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
   },
   {
     "id": "FGGo8LFmbjs",
@@ -293,11 +568,164 @@
     "artist": "Lewis Capaldi",
     "performer": "Evolve",
     "youtubeId": "FGGo8LFmbjs",
-    "cover": "covers/someoneyoulved.jpg",
-    "mood": "quiet",
+    "cover": "covers/someone-you-loved.jpg",
+    "mood": "sad",
     "source": "https://www.youtube.com/watch?v=FGGo8LFmbjs&list=RDFGGo8LFmbjs&start_radio=1",
     "license": "YouTube",
-    "lyrics": "lyrics/Someone You Loved.lrc"
+    "lyrics": "lyrics/someone-you-loved.lrc",
+    "genre": "Pop Ballad quốc tế",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "someone-you-loved",
+    "originalOrder": 25,
+    "lyricsStatus": "reference-timed-unverified",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 33,
+    "lyricsTimestampCount": 33,
+    "lyricsTimestampNotes": "Reference LRC timing not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/lewis-capaldi-someone-you-loved-380210"
+  },
+  {
+    "id": "-iz6VBxZBIM",
+    "title": "Nỗi nhớ mang tên mình",
+    "artist": "Hoài Lâm",
+    "performer": "Nguyễn Minh Cường",
+    "youtubeId": "-iz6VBxZBIM",
+    "cover": "covers/noi-nho-mang-ten-minh.jpg",
+    "mood": "sad",
+    "source": "https://www.youtube.com/watch?v=-iz6VBxZBIM&list=RD-iz6VBxZBIM&start_radio=1",
+    "license": "YouTube",
+    "lyrics": "lyrics/noi-nho-mang-ten-minh.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "sad",
+      "quiet"
+    ],
+    "slug": "noi-nho-mang-ten-minh",
+    "originalOrder": 28,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 28,
+    "lyricsTimestampCount": 28,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
+  },
+  {
+    "id": "7ZK6b8fSw-w",
+    "title": "Dòng thời gian",
+    "artist": "Nguyễn Hải Phong",
+    "performer": "NHP Entertainment",
+    "youtubeId": "7ZK6b8fSw-w",
+    "cover": "covers/dong-thoi-gian.jpg",
+    "mood": "nostalgia",
+    "source": "https://www.youtube.com/watch?v=7ZK6b8fSw-w",
+    "license": "YouTube",
+    "lyrics": "lyrics/dong-thoi-gian.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "nostalgia",
+      "quiet"
+    ],
+    "slug": "dong-thoi-gian",
+    "originalOrder": 2,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "sF7b8VWuLFo",
+    "title": "Xuân thì",
+    "artist": "Hà Anh Tuấn",
+    "performer": "Đức Trí Piano Boutique",
+    "youtubeId": "sF7b8VWuLFo",
+    "cover": "covers/xuan-thi.jpg",
+    "mood": "nostalgia",
+    "source": "https://www.youtube.com/watch?v=sF7b8VWuLFo",
+    "license": "YouTube",
+    "lyrics": "lyrics/xuan-thi.lrc",
+    "genre": "Pop Ballad",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "playlists": [
+      "nostalgia",
+      "sad",
+      "quiet"
+    ],
+    "slug": "xuan-thi",
+    "originalOrder": 5,
+    "lyricsStatus": "synced"
+  },
+  {
+    "id": "DOBZ3GtdFf8",
+    "title": "Quê hương tôi",
+    "artist": "V.Music",
+    "performer": "T Production",
+    "youtubeId": "DOBZ3GtdFf8",
+    "cover": "covers/que-huong-toi.jpg",
+    "mood": "nostalgia",
+    "source": "https://www.youtube.com/watch?v=DOBZ3GtdFf8",
+    "license": "YouTube",
+    "lyrics": "lyrics/que-huong-toi.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "nostalgia",
+      "energy"
+    ],
+    "slug": "que-huong-toi",
+    "originalOrder": 20,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 16,
+    "lyricsTimestampCount": 16,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
+  },
+  {
+    "id": "Oz8RF_1eGxw",
+    "title": "Trước khi tuổi trẻ này đóng lối",
+    "artist": "Ngắn x Xám x Dick",
+    "performer": "Bạn có tài mà",
+    "youtubeId": "Oz8RF_1eGxw",
+    "cover": "covers/truoc-khi-tuoi-tre-nay-dong-loi.jpg",
+    "mood": "nostalgia",
+    "source": "https://www.youtube.com/watch?v=Oz8RF_1eGxw",
+    "license": "YouTube",
+    "lyrics": "lyrics/truoc-khi-tuoi-tre-nay-dong-loi.lrc",
+    "genre": "Rap / Hip-hop",
+    "genres": [
+      "Hip-hop",
+      "Rap"
+    ],
+    "playlists": [
+      "nostalgia",
+      "energy"
+    ],
+    "slug": "truoc-khi-tuoi-tre-nay-dong-loi",
+    "originalOrder": 26,
+    "lyricsStatus": "reference-anchored-estimate",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 100,
+    "lyricsTimestampCount": 100,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/ngan-tr-c-khi-tu-i-tr-n-y-ng-l-i-c-ng-v-i-dick-v-x-m-10336539"
   },
   {
     "id": "WECF30njTEo",
@@ -305,22 +733,139 @@
     "artist": "HIEUTHUHAI, ERIK, ANH TÚ ATUS, JSOL, ORANGE",
     "performer": "Anh trai say HI",
     "youtubeId": "WECF30njTEo",
-    "cover": "covers/ngaongo.jpg",
-    "mood": "quiet",
+    "cover": "covers/ngao-ngo.jpg",
+    "mood": "energy",
     "source": "https://www.youtube.com/watch?v=WECF30njTEo&list=RDWECF30njTEo&start_radio=1",
     "license": "YouTube",
-    "lyrics": "lyrics/Ngáo ngơ.lrc"
+    "lyrics": "lyrics/ngao-ngo.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "energy",
+      "love"
+    ],
+    "slug": "ngao-ngo",
+    "originalOrder": 27,
+    "lyricsStatus": "reference-timed-unverified",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 83,
+    "lyricsTimestampCount": 83,
+    "lyricsTimestampNotes": "Reference LRC timing not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/anh-trai-say-hi-ng-o-ng-feat-hieuthuhai-erik-anh-t-atus-jsol-orange-13099751"
   },
   {
-    "id": "iz6VBxZBIM",
-    "title": "Nỗi nhớ mang tên mình",
-    "artist": "Hoài Lâm",
-    "performer": "Nguyễn Minh Cường",
-    "youtubeId": "-iz6VBxZBIM",
-    "cover": "covers/noinhomangtenminh.jpg",
-    "mood": "quiet",
-    "source": "https://www.youtube.com/watch?v=-iz6VBxZBIM&list=RD-iz6VBxZBIM&start_radio=1",
+    "id": "7w0xZeOh-0Y",
+    "title": "Sống cho hết đời thanh xuân 4",
+    "artist": "Huỳnh Công Hiếu x Ngắn",
+    "performer": "Bạn có tài mà",
+    "youtubeId": "7w0xZeOh-0Y",
+    "cover": "covers/song-cho-het-doi-thanh-xuan-4.jpg",
+    "mood": "energy",
+    "source": "https://www.youtube.com/watch?v=7w0xZeOh-0Y",
     "license": "YouTube",
-    "lyrics": "lyrics/Nỗi nhớ mang tên mình.lrc"
+    "lyrics": "lyrics/song-cho-het-doi-thanh-xuan-4.lrc",
+    "genre": "Rap / Hip-hop",
+    "genres": [
+      "Hip-hop",
+      "Rap"
+    ],
+    "playlists": [
+      "energy",
+      "nostalgia"
+    ],
+    "slug": "song-cho-het-doi-thanh-xuan-4",
+    "originalOrder": 29,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 70,
+    "lyricsTimestampCount": 70,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
+  },
+  {
+    "id": "5e7e_KZINA4",
+    "title": "Đưa nhau đi trốn",
+    "artist": "Đen ft Linh Cáo",
+    "performer": "Đen Vâu Official",
+    "youtubeId": "5e7e_KZINA4",
+    "cover": "covers/dua-nhau-di-tron.jpg",
+    "mood": "energy",
+    "source": "https://www.youtube.com/watch?v=5e7e_KZINA4",
+    "license": "YouTube",
+    "lyrics": "lyrics/dua-nhau-di-tron.lrc",
+    "genre": "Rap / Hip-hop",
+    "genres": [
+      "Hip-hop",
+      "Rap"
+    ],
+    "playlists": [
+      "energy",
+      "nostalgia",
+      "quiet"
+    ],
+    "slug": "dua-nhau-di-tron",
+    "originalOrder": 30,
+    "lyricsStatus": "estimated-timing",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 69,
+    "lyricsTimestampCount": 69,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video."
+  },
+  {
+    "id": "lXx-kdlxL48",
+    "title": "Vào hạ",
+    "artist": "SUNI HẠ LINH",
+    "performer": "SOULIE STUDIOS",
+    "youtubeId": "lXx-kdlxL48",
+    "cover": "covers/vao-ha.jpg",
+    "mood": "energy",
+    "source": "https://www.youtube.com/watch?v=lXx-kdlxL48",
+    "license": "YouTube",
+    "lyrics": "lyrics/vao-ha.lrc",
+    "genre": "V-Pop",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "energy",
+      "quiet"
+    ],
+    "slug": "vao-ha",
+    "originalOrder": 31,
+    "lyricsStatus": "reference-anchored-estimate",
+    "lyricsSource": "user-supplied",
+    "lyricsTimingVerified": false,
+    "lyricsLineCount": 32,
+    "lyricsTimestampCount": 32,
+    "lyricsTimestampNotes": "Provisional timestamp alignment; not verified against the exact YouTube video.",
+    "lyricsTimestampSource": "https://www.lyricdown.com/lrc/suni-h-linh-v-o-h-3852295"
+  },
+  {
+    "id": "lkgO5jfKrzI",
+    "title": "Ghibli · Những bản nhạc anime",
+    "artist": "Relaxing Soul",
+    "performer": "Relaxing Soul",
+    "youtubeId": "lkgO5jfKrzI",
+    "cover": "covers/ghibli-nhung-ban-nhac-anime.jpg",
+    "mood": "focus",
+    "source": "https://www.youtube.com/watch?v=lkgO5jfKrzI",
+    "license": "YouTube",
+    "lyrics": "lyrics/ghibli-nhung-ban-nhac-anime.lrc",
+    "genre": "Nhạc không lời",
+    "genres": [
+      "Instrumental",
+      "Anime"
+    ],
+    "playlists": [
+      "focus",
+      "quiet"
+    ],
+    "slug": "ghibli-nhung-ban-nhac-anime",
+    "originalOrder": 1,
+    "lyricsStatus": "instrumental"
   }
 ]
